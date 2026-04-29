@@ -1,0 +1,104 @@
+[2026-04-26 09:28:42] to=charlesanter58@gmail.com subject=Your NyarukaTransport Driver Login Credentials sent=no
+Hello Hamad,
+
+Your driver account has been created on NyarukaTransport.
+Login URL: http://localhost/Rwanda_Ride/login.php?role=driver
+Email: charlesanter58@gmail.com
+Temporary Password: Drv@82640
+
+Please login and update your password immediately.
+
+Regards,
+NyarukaTransport Team
+----
+[2026-04-26 09:33:03] to=wadanny28@gmail.com subject=Your NyarukaTransport Driver Login Credentials sent=no
+Hello Anter,
+
+Your driver account has been created on NyarukaTransport.
+Login URL: http://localhost/Rwanda_Ride/login.php?role=driver
+Email: wadanny28@gmail.com
+Temporary Password: Drv@63072
+
+Please login and update your password immediately.
+
+Regards,
+NyarukaTransport Team
+----
+[2026-04-26 09:35:03] to=anter40@gmail.com subject=Your NyarukaTransport Driver Login Credentials sent=no
+Hello Willy,
+
+Your driver account has been created on NyarukaTransport.
+Login URL: http://localhost/Rwanda_Ride/login.php?role=driver
+Email: anter40@gmail.com
+Temporary Password: Drv@20669
+
+Please login and update your password immediately.
+
+Regards,
+NyarukaTransport Team
+----
+[2026-04-26 10:17:33] to=nyaruka20@gmail.com subject=Your NyarukaTransport Driver Login Credentials sent=no mode=smtp error=SMTP password rejected.
+Hello SMTP Test Driver,
+
+Your driver account has been created on NyarukaTransport.
+Login URL: http://localhost/Rwanda_Ride/login.php?role=driver
+Email: nyaruka20@gmail.com
+Temporary Password: TestPass@2026
+
+Please login and update your password immediately.
+
+Regards,
+NyarukaTransport Team
+----
+[2026-04-26 10:40:21] to=nyaruka20@gmail.com subject=Your NyarukaTransport Driver Login Credentials sent=no mode=smtp error=SMTP password rejected.
+Hello SMTP Test Driver,
+
+Your driver account has been created on NyarukaTransport.
+Login URL: http://localhost/Rwanda_Ride/login.php?role=driver
+Email: nyaruka20@gmail.com
+Temporary Password: TestPass@2026
+
+Please login and update your password immediately.
+
+Regards,
+NyarukaTransport Team
+----
+[2026-04-26 10:58:35] to=wadanny28@gmail.com subject=Your NyarukaTransport Driver Login Credentials sent=yes mode=smtp error=-
+Hello SMTP Test Driver,
+
+Your driver account has been created on NyarukaTransport.
+Login URL: http://localhost/Rwanda_Ride/login.php?role=driver
+Email: wadanny28@gmail.com
+Temporary Password: TestPass@2026
+
+Please login and update your password immediately.
+
+Regards,
+NyarukaTransport Team
+----
+[2026-04-26 11:12:52] to=historyawareness124@gmail.com subject=Your NyarukaTransport Driver Login Credentials sent=yes mode=smtp error=-
+Hello Appo,
+
+Your driver account has been created on NyarukaTransport.
+Login URL: http://localhost/Rwanda_Ride/login.php?role=driver
+Email: historyawareness124@gmail.com
+Temporary Password: Drv@38297
+
+Please login and update your password immediately.
+
+Regards,
+NyarukaTransport Team
+----
+[2026-04-26 14:17:49] to=wadanny28@gmail.com subject=Your NyarukaTransport Driver Login Credentials sent=yes mode=smtp error=-
+Hello Anter,
+
+Your driver account has been created on NyarukaTransport.
+Login URL: http://localhost/Rwanda_Ride/login.php?role=driver
+Email: wadanny28@gmail.com
+Temporary Password: Drv@24512
+
+Please login and update your password immediately.
+
+Regards,
+NyarukaTransport Team
+----
